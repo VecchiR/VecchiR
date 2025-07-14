@@ -43,7 +43,7 @@ I’m currently on the lookout for my first professional role as a developer!
 
 ## 🏗️ What I'm working on right now
 
-### 📁 Clyde (Cloud Storage App)  
+### ☁️ Clyde (Cloud Storage App)  
 A stripped‑down file storage app I'm building to practice my backend skills  
 - **Auth:** Passport.js (local- for now, JTW planned)  
 - **Backend:** Node, Express, PostgreSQL + Prisma, Cloudinary integration for storing files  
