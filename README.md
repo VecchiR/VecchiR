@@ -65,21 +65,31 @@ Right now, I’m actively looking for my first professional opportunity as a dev
 </p>
 
 
-
 ## 🏗️ What I'm working on right now
 
-### ☁️ Clyde (Cloud Storage App)  
+<details>
+<summary>☁️ Clyde (Cloud Storage App)</summary>
+
 A stripped‑down file storage app I'm building to practice my backend skills  
-- **Auth:** Passport.js (local- for now, JTW planned)  
+- **Auth:** Passport.js (local — for now, JWT planned)  
 - **Backend:** Node, Express, PostgreSQL + Prisma, Cloudinary integration for storing files  
 - **Architecture:** MVC pattern  
-- **Features:** User registration, file upload/download, folder hierarchy, permissions, sharing (with viewer/editor roles + optional expiration dates) 
+- **Features:** User registration, file upload/download, folder hierarchy, permissions, sharing (with viewer/editor roles + optional expiration dates)
 
-### 🌐 Next‑JS Real‑Estate Website
-A modern, responsive marketing site built in Next.js to showcase and sell a family member’s property. Features include:
+</details>
+
+<details>
+<summary>🌐 Next‑JS Real‑Estate Website</summary>
+
+A modern, responsive marketing site built in Next.js to showcase and sell a family member’s property.  
 - SEO‑friendly pages  
 - Contact form with serverless functions  
-- Lightweight styling with Tailwind CSS  
+- Lightweight styling with Tailwind CSS
+
+</details>
+
+
+
 
 
 ## 🤝 Contact Info
