@@ -12,7 +12,7 @@ I am Rafael Vecchi. Most people just call me **Vecchi** _(pronounced like "veh-k
 
 Since January 2024, I’ve been learning web development through [**The Odin Project**](https://www.theodinproject.com/), starting with the fundamentals of HTML, CSS, and JavaScript, then moving into **React** for the frontend and **Node.js + Express** on the backend.
 
-I also took part in a peer-learning project through the [Chingu community](https://www.chingu.io/), where I had the chance to collaborate with other developers.
+I also took part in a peer-learning project through the [**Chingu community**](https://www.chingu.io/), where I had the chance to collaborate with other developers.
 
 Right now, I’m actively looking for my first professional opportunity as a developer!
 
