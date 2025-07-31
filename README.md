@@ -1,7 +1,7 @@
 # Hey-oh! 👋
 I am Rafael Vecchi. Most people just call me **Vecchi** _(pronounced like "veh-kee")_
 
-📍 Based in Campinas, Brazil 🇧🇷  
+📍 Based in Campinas, SP - Brazil 🇧🇷  
 
 ---
 
